@@ -1,5 +1,5 @@
 # Trio &nbsp;&nbsp;&nbsp;[![Discord](https://img.shields.io/discord/1020905149037813862?label=Discord&logo=discord&logoColor=white&color=5865F2)](https://discord.triodocs.org)
-
+ 
 ## Introduction
 
 Trio is an open source automated insulin delivery (OS-AID) system for iOS based on the OpenAPS algorithm, with [adaptations for Trio](https://github.com/nightscout/trio-oref).
